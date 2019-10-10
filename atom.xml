@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title></title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-10-10T00:25:00-07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>shawnwu@</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>First Post</title>
+   <link href="http://localhost:4000/2019/10/09/00/"/>
+   <updated>2019-10-09T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2019/10/09/00</id>
+   <content type="html">&lt;h1 id=&quot;initial-commit&quot;&gt;Initial Commit&lt;/h1&gt;
+
+&lt;p&gt;TODO: replace with a real post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
